@@ -1,11 +1,13 @@
 {
   "name": "ts-file-exports",
   "version": "0.0.1",
-  "description": "Utility for reading and resolving the file exports in a TypeScript or JavaScript file",
+  "description": "Utility for reading and resolving the module export names from a TypeScript or JavaScript file",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "cli": "build/cli.js",
   "author": "ian.b.taylor@gmail.com",
+  "repository": "https://github.com/itaylor/ts-file-exports",
+  "keywords": ["module", "exports", "typescript", "javascript", "files"],
   "license": "MIT",
   "private": false,
   "dependencies": {
