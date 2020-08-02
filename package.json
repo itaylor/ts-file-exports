@@ -1,6 +1,6 @@
 {
   "name": "ts-file-exports",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Utility for reading and resolving the module export names from a TypeScript or JavaScript file",
   "main": "build/index.js",
   "types": "build/index.d.ts",
